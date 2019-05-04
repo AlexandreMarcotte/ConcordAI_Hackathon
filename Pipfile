@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+geojson = "*"
+mysqlclient = "*"
+sqlalchemy = "*"
+pandas = "*"
+"psycopg2" = "*"
+matplotlib = "*"
+pyqtgraph = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
