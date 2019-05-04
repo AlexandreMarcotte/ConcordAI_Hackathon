@@ -12,6 +12,7 @@ pandas = "*"
 "psycopg2" = "*"
 matplotlib = "*"
 pyqtgraph = "*"
+"pyqt5" = "*"
 
 [dev-packages]
 
